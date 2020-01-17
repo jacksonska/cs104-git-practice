@@ -1,2 +1,3 @@
 # cs104-git-practice
-Learning how to use git commands
+1st time Learning how to use git commands
+
